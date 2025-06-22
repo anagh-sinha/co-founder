@@ -3,17 +3,17 @@
 
 Watch our co-founder introduction video below:
 
-[![BioStride](https://img.youtube.com/vi/SxsqbEcUB28/0.jpg)](https://www.youtube.com/watch?v=SxsqbEcUB28)
+[![BioStride](https://youtu.be/WflxDPOKegU?si=C1KWwrTQU-j7uujn)
 
 
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=SxsqbEcUB28" />
+  <meta http-equiv="refresh" content="0; url="https://youtu.be/WflxDPOKegU?si=C1KWwrTQU-j7uujn" />
   Redirecting to BioStride Co-Founders Video
 </head>
 <body>
-  <p>If you are not redirected automatically, <a href="https://www.youtube.com/watch?v=SxsqbEcUB28">click here to watch the video</a>.</p>
+  <p>If you are not redirected automatically, <a href="https://youtu.be/WflxDPOKegU?si=C1KWwrTQU-j7uujn">click here to watch the video</a>.</p>
 </body>
 </html>
