@@ -3,7 +3,7 @@
 
 Watch our co-founder introduction video below:
 
-[![BioStride](https://www.youtube.com/watch?v=WflxDPOKegU)
+[![BioStride Co-founder Story]("https://www.youtube.com/watch?v=WflxDPOKegU")
 
 
 
